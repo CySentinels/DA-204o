@@ -14,7 +14,7 @@ The purpose of this project is to develop a reliable machine learning-based syst
 2. Label 1 corresponds to a legitimate URL, label 0 to a phishing URL
 
 ## Project Steps
-## 1. Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
 
 **Dataset Overview**
 1. Basic exploration: info(), describe(), shape, and isnull().
@@ -34,7 +34,7 @@ The purpose of this project is to develop a reliable machine learning-based syst
    
 For detailed visualizations and analysis, refer to 01-EDA.ipynb.
 
-## 2. Model Training and Evaluation
+### 2. Model Training and Evaluation
 
 **Models Trained:** Decision Tree, Random Forest, SVM, Naive Bayes.
 
@@ -71,4 +71,3 @@ Refer to the below files for details analysis and documentation:
 1. Deepansh Sood
 2. Shambo Samanta
 3. Sudipta Ghosh
-4. Sourajit Bhar
