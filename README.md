@@ -65,9 +65,26 @@ Refer to the below files for details analysis and documentation:
 
 **Random Forest:** 02-d-ModelTraining-RandomForest.ipynb
 
+**ComparisonAndBestModelSelection:** 02-e-ModelTraining-ComparisonAndBestModelSelection.ipynb
+
 **requirements.txt** contains list of required Python libraries
 
-## Contributors
+### 3. Model Deployment & Demo
+
+![image](https://github.com/user-attachments/assets/035ad6af-140f-4f61-bade-dd89b389df11)               ![image](https://github.com/user-attachments/assets/419a98f6-4a69-465c-9751-bab77d106911)
+
+**Future Work**
+
+**(1) Real-Time Phishing Detection:** Develop and deploy real-time systems, such as browser extensions or exchange platforms, to detect and block phishing URLs as they appear, providing immediate protection for users.
+ 
+**(2) Model Retraining and Updates:** Continuously update and retrain the model with new phishing data to adapt to evolving tactics and improve detection accuracy.
+
+**(3) Advanced Feature Integration:** Incorporate additional features such as user interaction data and behavioural analysis to improve model robustness and detect more sophisticated phishing attacks.
+
+
+
+## Team Members
 1. Deepansh Sood
 2. Shambo Samanta
 3. Sudipta Ghosh
+4. Sourajit Bhar
